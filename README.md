@@ -42,4 +42,3 @@ chmod +x switch_audio.sh
 The script will display a numbered list of available output and input devices. You can choose a device by entering its number. The output device's volume will be set to 50% by default.
 ```
 
-Replace `your-github-username` with your actual GitHub username in the `git clone` command. Save this content as `README.md` in the same directory as your `switch_audio.sh` script. When you push the repository to GitHub, the `README.md` file will be displayed on the repository's main page, providing instructions for installing and using the script.
